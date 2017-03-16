@@ -1,2 +1,1 @@
-# workshops-git - 5 
-trololololololololo
+# workshops-git - 6
